@@ -1,5 +1,11 @@
 # Semantic Segmentation on GeoSpatial Imagery
 
+## Contributors
+
+1. Rohan Sachan
+2. Prateek Garg https://github.com/prateek-77
+3. Abhichal Gosh
+
 ## Introduction
 
 This repository consists of a summary of my research based project work at **Regional Remote Sensing Centre (NRSC, ISRO) 2020**. The objective of the project was to perform Semantic Segmentation on GeoSpatial Imagery to detect House Buildings, Solar Farms and Sand Dunes in Rajasthan. The project aimed at promoting autonomous detection of target objects so that they can be precisely tracked, monitored, and serve as a key indicator in managing disasters as well as promoting sustainable growth.
